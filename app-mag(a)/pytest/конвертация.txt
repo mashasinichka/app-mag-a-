@@ -1,0 +1,5 @@
+Ui файл:
+python -m PyQt5.uic.pyuic -x название_файла.ui -o название_файла.py
+
+qrc картинку в py:
+python -m PyQt5.pyrcc_main ваша_картинка.qrc -o ваша_картинка.py
