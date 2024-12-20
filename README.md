@@ -1,2 +1,2 @@
-# test_pravo
+# app-mag-a
 study project 
